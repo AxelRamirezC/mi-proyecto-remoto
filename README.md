@@ -5,7 +5,9 @@ Este es mi primer proyecto con Git
 Proyecto para aprender Git
 
 Codigos de Tareas
+
 -Tarea 1
 -Tarea 2
 -Tarea 3
+
 
